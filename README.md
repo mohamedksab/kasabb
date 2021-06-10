@@ -1,7 +1,7 @@
 
-# DRAGON
+# KASAB
 
-# <p align="center" style="color:#cb3349" >سورس كسٱب على تلكرام ⌯︙
+# <p align="center" style="color:#cb3349" >سورس كسٱب على تلجرام ⌯︙
 
 # <p align="center" style="color:#cb3349" > شروحات عن السورس ادخل الى قناة السورس
 
